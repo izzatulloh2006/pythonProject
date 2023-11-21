@@ -1,0 +1,2 @@
+XIZMATLAR = "KAROBKA : JIGULI  |  MATIZ |  SPARK - Avtomat / Mehanika  |  COBALT : Mehanika | DAMAS"
+print(XIZMATLAR)
